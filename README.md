@@ -3,4 +3,5 @@
 Aluno: Sávio dos Santos Rios
 
 ##Aula 02
-[link de formatação da linguagem markdown] (https://markdown.net.br/)
+
+[link de formatação da linguagem Markdown] (https://markdown.net.br/)
